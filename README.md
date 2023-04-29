@@ -37,6 +37,10 @@ note:
 
 your can Regist server with no limit (more machine). and serve for public!!
 
+we have plugin service and connect with our knowledge database.
+
+powered by https://ai.zyinfo.pro
+
 
 
 
