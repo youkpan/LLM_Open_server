@@ -26,6 +26,8 @@ https://platform.openai.com/docs/api-reference/chat/create
 
 use websocket send your result word by word or sentence.
 
+Finnaly ,send message "ALL-finished!" , system will finish current chat ,and ready for next server.
+
 
 
 2.Then open url :
