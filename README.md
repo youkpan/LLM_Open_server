@@ -13,10 +13,7 @@ websocket.WebSocketApp("wss://v.stylee.top:8883/ws_ai_server?system={your server
 
 your server system name can be any string .like abcdefg...
 
-your server will get OpenAI like data with websocket.
-
-https://platform.openai.com/docs/api-reference/chat/create
-
+your server will receive [OpenAI like data(json)](https://platform.openai.com/docs/api-reference/chat/create) with websocket.
 
 ```
 {
@@ -28,8 +25,7 @@ https://platform.openai.com/docs/api-reference/chat/create
 
 use websocket send your result word by word or sentence.
 
-Finnaly ,send message "ALL-finished!" , system will finish current chat ,and ready for next server.
-
+Finnaly ,send message "ALL-finished!" , system will finish current dialog ,and ready for next server.
 
 
 2.Then open url :
