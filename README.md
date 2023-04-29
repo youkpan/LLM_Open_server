@@ -1,5 +1,7 @@
 ## Easy to deploy your LLM(large language model) server with no public address GPU machine.
 
+[中文](https://github.com/youkpan/LLM_Open_server/blob/main/README_CN.md)
+
 If you don't want to build a web server,and it is hard to let your LLM server export to public (such as vast.ai ,autodl.com etc.) .
 
 
