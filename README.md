@@ -11,6 +11,21 @@ websocket.WebSocketApp("wss://v.stylee.top:8883/ws_ai_server?system={your server
 
 your server will get OpenAI like data with websocket.
 
+https://platform.openai.com/docs/api-reference/chat/create
+
+
+```
+{
+  "model": "gpt-3.5-turbo",
+  "messages": [{"role": "user", "content": "Hello!"}]
+  ...
+}
+```
+
+use websocket send your result word by word or sentence.
+
+
+
 2.Then open url :
 https://ai.zyinfo.pro/?AI_system={your server system}
 
