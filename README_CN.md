@@ -27,12 +27,18 @@ websocket.WebSocketApp("wss://v.stylee.top:8883/ws_ai_server?system={你的服�
 最后，发送消息“ALL-finished!” , 系统将结束当前聊天，并为下一个服务做好准备。
 
 
-
 2.然后打开网址：
 https://ai.zyinfo.pro/?AI_system={你的服务器系统}
 
 玩得开心 ！
 
-笔记：
+
+提示：
 
 您可以无限制地注册服务器（更多机器）。 为大众服务！！
+
+
+
+我们有插件服务并与我们的知识数据库连接。
+
+由 https://ai.zyinfo.pro 提供支持
