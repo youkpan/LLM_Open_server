@@ -9,6 +9,8 @@ You can have your own AI website link Only two step:
 
 websocket.WebSocketApp("wss://v.stylee.top:8883/ws_ai_server?system={your server system}&id={server id}" ...
 
+your server system name can be any string .like abcdefg...
+
 your server will get OpenAI like data with websocket.
 
 https://platform.openai.com/docs/api-reference/chat/create
